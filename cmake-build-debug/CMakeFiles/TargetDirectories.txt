@@ -1,0 +1,3 @@
+C:/Users/jayna/Desktop/mirlon0706/cmake-build-debug/CMakeFiles/mirlon0706.dir
+C:/Users/jayna/Desktop/mirlon0706/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jayna/Desktop/mirlon0706/cmake-build-debug/CMakeFiles/rebuild_cache.dir

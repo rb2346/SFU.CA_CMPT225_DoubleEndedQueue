@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jayna/Desktop/mirlon0706/Deque.h
+stdexcept
+-
+
+C:/Users/jayna/Desktop/mirlon0706/main.cpp
+Deque.h
+C:/Users/jayna/Desktop/mirlon0706/Deque.h
+
